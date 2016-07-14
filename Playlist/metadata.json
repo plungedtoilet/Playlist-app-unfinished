@@ -1,0 +1,12 @@
+{
+  "className":  "ApplicationPlaylist",
+  "name":       "Playlist",
+  "mime":       "^audio",
+  "icon":       "devices/ipod_mount.png",
+  "preload":    [
+    {"src": "main.js", "type": "javascript"},
+    {"src": "main.css", "type": "stylesheet"}
+  ],
+  "singular": true,
+  "category": "multimedia"
+}
